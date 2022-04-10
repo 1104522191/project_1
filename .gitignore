@@ -1,0 +1,5 @@
+# 忽视index.css
+index.css
+
+# 忽视所有cs目录下的文件
+cs/
