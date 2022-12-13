@@ -6,4 +6,9 @@ dad
 dadadadadadadada
 a
 
+<<<<<<< HEAD
 qqqqqqqqqqqqqqqqq
+=======
+zzzzzzzzzzzzzz
+
+>>>>>>> 5585f42f8098195510dc8fc35167d87018c0b97a
